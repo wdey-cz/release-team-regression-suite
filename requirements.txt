@@ -1,0 +1,11 @@
+# Selenium and WebDriver dependencies
+selenium==4.26.1
+webdriver-manager==4.0.2
+
+# Testing framework
+pytest==8.3.4
+pytest-html==4.1.1
+pytest-xdist==3.6.1
+
+# Additional utilities
+python-dotenv==1.0.1
