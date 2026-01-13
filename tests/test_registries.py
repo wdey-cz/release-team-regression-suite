@@ -138,4 +138,4 @@ class TestRegistries:
         
         # Get registry status
         # status = registries_page.get_registry_status(0)
-        # assert status is not None or status == "", "Status should be retrievable"
+        # assert status is not None, "Status should be retrievable"
